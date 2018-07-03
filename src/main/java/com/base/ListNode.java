@@ -9,7 +9,7 @@ package com.base;
  * @detail:
  */
 public class ListNode {
-    int val;
+    public int val;
     public ListNode next;
 
     public ListNode(int val) {
